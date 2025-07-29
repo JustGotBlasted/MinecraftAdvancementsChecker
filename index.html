@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Minecraft Advancements Checker
+        </title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <article>
+            <div id="intro">
+                <h1>
+                    Minecraft Advancements Checker
+                </h1>
+
+                <p id="version_range">
+                    1.21.6 - 1.21.8
+                </p>
+                
+                <div id="file_input_container">
+                    <input type="file" id="file_input">
+                    <p id="custom_file_input">Insert JSON file here</p>
+                    <ul id="file_input_info">
+                        <li>Access .minecraft folder</li>
+                        <li>Go to "saves"</li>
+                        <li>Select a world folder</li>
+                        <li>Go to "advancements"</li>
+                    </ul>
+                </div>
+                
+                <button id="filter" class="filter_off">
+                       Show Only Incomplete  
+                </button>
+
+                <p id="total_progress_text">0/124</p>
+                <progress id="total_progress" value="0" max="124"></progress>
+            </div>
+
+            <script type="text/javascript" src="result.json"></script>
+            <script src="index.js"></script>
+        </article>
+    </body>
+</html>

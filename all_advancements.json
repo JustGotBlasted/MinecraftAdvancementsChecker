@@ -1,0 +1,1771 @@
+{
+    "minecraft:adventure/adventuring_time": {
+        "name": "Adventuring Time",
+        "criteria": {
+            "minecraft:snowy_slopes": {
+                "description": "Snowy Slopes",
+                "icon": ""
+            },
+            "minecraft:old_growth_pine_taiga": {
+                "description": "Old Growth Pine Taiga",
+                "icon": ""
+            },
+            "minecraft:mushroom_fields": {
+                "description": "Mushroom Fields",
+                "icon": ""
+            },
+            "minecraft:taiga": {
+                "description": "Taiga",
+                "icon": ""
+            },
+            "minecraft:deep_ocean": {
+                "description": "Deep Ocean",
+                "icon": ""
+            },
+            "minecraft:eroded_badlands": {
+                "description": "Eroded Badlands",
+                "icon": ""
+            },
+            "minecraft:frozen_river": {
+                "description": "Frozen River",
+                "icon": ""
+            },
+            "minecraft:cherry_grove": {
+                "description": "Cherry Grove",
+                "icon": ""
+            },
+            "minecraft:sunflower_plains": {
+                "description": "Sunflower Plains",
+                "icon": ""
+            },
+            "minecraft:birch_forest": {
+                "description": "Birch Forest",
+                "icon": ""
+            },
+            "minecraft:windswept_hills": {
+                "description": "Windswept Hills",
+                "icon": ""
+            },
+            "minecraft:wooded_badlands": {
+                "description": "Wooded Badlands",
+                "icon": ""
+            },
+            "minecraft:bamboo_jungle": {
+                "description": "Bamboo Jungle",
+                "icon": ""
+            },
+            "minecraft:badlands": {
+                "description": "Badlands",
+                "icon": ""
+            },
+            "minecraft:savanna_plateau": {
+                "description": "Savanna Plateau",
+                "icon": ""
+            },
+            "minecraft:beach": {
+                "description": "Beach",
+                "icon": ""
+            },
+            "minecraft:dark_forest": {
+                "description": "Dark Forest",
+                "icon": ""
+            },
+            "minecraft:stony_peaks": {
+                "description": "Stony Peaks",
+                "icon": ""
+            },
+            "minecraft:mangrove_swamp": {
+                "description": "Mangrove Swamp",
+                "icon": ""
+            },
+            "minecraft:sparse_jungle": {
+                "description": "Sparse Jungle",
+                "icon": ""
+            },
+            "minecraft:river": {
+                "description": "River",
+                "icon": ""
+            },
+            "minecraft:lukewarm_ocean": {
+                "description": "Lukewarm Ocean",
+                "icon": ""
+            },
+            "minecraft:stony_shore": {
+                "description": "Stony Shore",
+                "icon": ""
+            },
+            "minecraft:snowy_plains": {
+                "description": "Snowy Plains",
+                "icon": ""
+            },
+            "minecraft:dripstone_caves": {
+                "description": "Dripstone Caves",
+                "icon": ""
+            },
+            "minecraft:snowy_taiga": {
+                "description": "Snowy Taiga",
+                "icon": ""
+            },
+            "minecraft:grove": {
+                "description": "Grove",
+                "icon": ""
+            },
+            "minecraft:swamp": {
+                "description": "Swamp",
+                "icon": ""
+            },
+            "minecraft:jagged_peaks": {
+                "description": "Jagged Peaks",
+                "icon": ""
+            },
+            "minecraft:cold_ocean": {
+                "description": "Cold Ocean",
+                "icon": ""
+            },
+            "minecraft:forest": {
+                "description": "Forest",
+                "icon": ""
+            },
+            "minecraft:lush_caves": {
+                "description": "Lush Caves",
+                "icon": ""
+            },
+            "minecraft:deep_cold_ocean": {
+                "description": "Deep Cold Ocean",
+                "icon": ""
+            },
+            "minecraft:ice_spikes": {
+                "description": "Ice Spikes",
+                "icon": ""
+            },
+            "minecraft:frozen_ocean": {
+                "description": "Frozen Ocean",
+                "icon": ""
+            },
+            "minecraft:desert": {
+                "description": "Desert",
+                "icon": ""
+            },
+            "minecraft:deep_frozen_ocean": {
+                "description": "Deep Frozen Ocean",
+                "icon": ""
+            },
+            "minecraft:windswept_forest": {
+                "description": "Windswept Forest",
+                "icon": ""
+            },
+            "minecraft:ocean": {
+                "description": "Ocean",
+                "icon": ""
+            },
+            "minecraft:jungle": {
+                "description": "Jungle",
+                "icon": ""
+            },
+            "minecraft:old_growth_spruce_taiga": {
+                "description": "Old Growth Spruce Taiga",
+                "icon": ""
+            },
+            "minecraft:snowy_beach": {
+                "description": "Snowy Beach",
+                "icon": ""
+            },
+            "minecraft:windswept_savanna": {
+                "description": "Windswept Savanna",
+                "icon": ""
+            },
+            "minecraft:warm_ocean": {
+                "description": "Warm Ocean",
+                "icon": ""
+            },
+            "minecraft:deep_lukewarm_ocean": {
+                "description": "Lukewarm Ocean",
+                "icon": ""
+            },
+            "minecraft:flower_forest": {
+                "description": "Flower Forest",
+                "icon": ""
+            },
+            "minecraft:frozen_peaks": {
+                "description": "Frozen Peaks",
+                "icon": ""
+            },
+            "minecraft:old_growth_birch_forest": {
+                "description": "Old Growth Birch Forest",
+                "icon": ""
+            },
+            "minecraft:deep_dark": {
+                "description": "Deep Dark",
+                "icon": ""
+            },
+            "minecraft:meadow": {
+                "description": "Meadow",
+                "icon": ""
+            },
+            "minecraft:windswept_gravelly_hills": {
+                "description": "Windswept Gravelly Hills",
+                "icon": ""
+            },
+            "minecraft:savanna": {
+                "description": "Savanna",
+                "icon": ""
+            },
+            "minecraft:plains": {
+                "description": "Plains",
+                "icon": ""
+            },
+            "minecraft:pale_garden": {
+                "description": "Pale Garden",
+                "icon": ""
+            }
+        },
+        "steps": 54,
+        "description": "Explore every biome",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Diamond_Boots.png?b9292",
+        "style": "grid-row: span 5"
+    },
+    "minecraft:adventure/arbalistic": {
+        "name": "Arbalistic",
+        "criteria": {},
+        "steps": 0,
+        "description": "Kill five unique mobs with one crossbow shot",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Crossbow.png?3188b",
+        "style": ""
+    },
+    "minecraft:adventure/avoid_vibration": {
+        "name": "Sneak 100",
+        "description": "Sneak within 8 blocks from a sculk sensor, or 16 blocks from a warden.",
+        "criteria": {},
+        "steps": 0,
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Sculk_Sensor.gif?4dcc2",
+        "style": ""
+    },
+    "minecraft:adventure/blowback": {
+        "name": "Blowback",
+        "criteria": {},
+        "steps": 0,
+        "description": "Kill a Breeze with a deflected Breeze-shot Wind Charge",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Wind_Charge.png?711b5",
+        "style": ""
+    },
+    "minecraft:adventure/brush_armadillo": {
+        "name": "Isn't It Scute?",
+        "criteria": {},
+        "steps": 0,
+        "description": "Get Armadillo Scutes from an Armadillo using a Brush",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Armadillo_Scute.png?75484",
+        "style": ""
+    },
+    "minecraft:adventure/bullseye": {
+        "name": "Bullseye",
+        "criteria": {},
+        "steps": 0,
+        "description": "Hit the bullseye of a Target block from at least 30 meters away",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Target.png?c4e33",
+        "style": ""
+    },
+    "minecraft:adventure/craft_decorated_pot_using_only_sherds": {
+        "name": "Careful Restoration",
+        "criteria": {},
+        "steps": 0,
+        "description": "Make a Decorated Pot out of 4 Pottery Sherds",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Decorated_Pot.png?c2fd1",
+        "style": ""
+    },
+    "minecraft:adventure/crafters_crafting_crafters": {
+        "name": "Crafters Crafting Crafters",
+        "criteria": {},
+        "steps": 0,
+        "description": "Be near a Crafter when it crafts a Crafter",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Crafter.png?c13ff",
+        "style": ""
+    },
+    "minecraft:adventure/fall_from_world_height": {
+        "name": "Caves & Cliffs",
+        "criteria": {},
+        "steps": 0,
+        "description": "Free fall from the top of the world (build limit) to the bottom of the world and survive",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Water_Bucket.png?a0466",
+        "style": ""
+    },
+    "minecraft:adventure/heart_transplanter": {
+        "name": "Heart Transplanter",
+        "criteria": {},
+        "steps": 0,
+        "description": "Place a Creaking Heart with the correct alignment between two Pale Oak Log blocks",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Creaking_Heart.png?2469e",
+        "style": ""
+    },
+    "minecraft:adventure/hero_of_the_village": {
+        "name": "Hero of the Village",
+        "criteria": {},
+        "steps": 0,
+        "description": "Successfully defend a village from a raid",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Ominous_Banner.png?6fa92",
+        "style": ""
+    },
+    "minecraft:adventure/honey_block_slide": {
+        "name": "Sticky Situation",
+        "criteria": {},
+        "steps": 0,
+        "description": "Collide on a vertical side of a honey block while falling.",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Ominous_Banner.png?6fa92",
+        "style": ""
+    },
+    "minecraft:adventure/kill_a_mob": {
+        "name": "Monster Hunter",
+        "criteria": {},
+        "steps": 0,
+        "description": "Kill any hostile monster",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Iron_Sword.png?563c5",
+        "style": ""
+    },
+    "minecraft:adventure/kill_all_mobs": {
+        "name": "Monsters Hunted",
+        "criteria": {
+            "minecraft:pillager": {
+                "description": "Pillager",
+                "icon": "https://minecraft.wiki/images/EntitySprite_evoker.png?f236e"
+            },
+            "minecraft:blaze": {
+                "description": "Blaze",
+                "icon": "https://minecraft.wiki/images/EntitySprite_blaze.png?43a55"
+            },
+            "minecraft:skeleton": {
+                "description": "Skeleton",
+                "icon": "https://minecraft.wiki/images/EntitySprite_skeleton.png?ff904"
+            },
+            "minecraft:zoglin": {
+                "description": "Zoglin",
+                "icon": "https://minecraft.wiki/images/EntitySprite_zoglin.png?09afa"
+            },
+            "minecraft:elder_guardian": {
+                "description": "Elder Guardian",
+                "icon": "https://minecraft.wiki/images/EntitySprite_elder-guardian.png?17494"
+            },
+            "minecraft:ravager": {
+                "description": "Ravager",
+                "icon": "https://minecraft.wiki/images/EntitySprite_ravager.png?40196"
+            },
+            "minecraft:bogged": {
+                "description": "Bogged",
+                "icon": "https://minecraft.wiki/images/EntitySprite_bogged.png?2cf56"
+            },
+            "minecraft:ghast": {
+                "description": "Ghast",
+                "icon": "https://minecraft.wiki/images/EntitySprite_ghast.png?f81fc"
+            },
+            "minecraft:hoglin": {
+                "description": "Hoglin",
+                "icon": "https://minecraft.wiki/images/EntitySprite_hoglin.png?06402"
+            },
+            "minecraft:guardian": {
+                "description": "Guardian",
+                "icon": "https://minecraft.wiki/images/EntitySprite_guardian.png?da544"
+            },
+            "minecraft:creaking": {
+                "description": "Creaking",
+                "icon": "https://minecraft.wiki/images/EntitySprite_creaking.png?6b7fb"
+            },
+            "minecraft:breeze": {
+                "description": "Breeze",
+                "icon": "https://minecraft.wiki/images/EntitySprite_breeze.png?cd2af"
+            },
+            "minecraft:vindicator": {
+                "description": "Vindicator",
+                "icon": "https://minecraft.wiki/images/EntitySprite_johnny.png?6d568"
+            },
+            "minecraft:magma_cube": {
+                "description": "Magma Cube",
+                "icon": "https://minecraft.wiki/images/EntitySprite_magma-cube.png?0a89c"
+            },
+            "minecraft:piglin_brute": {
+                "description": "Piglin Brute",
+                "icon": "https://minecraft.wiki/images/EntitySprite_piglin-brute.png?56ccd"
+            },
+            "minecraft:spider": {
+                "description": "Spider",
+                "icon": "https://minecraft.wiki/images/EntitySprite_spider.png?4ee43"
+            },
+            "minecraft:creeper": {
+                "description": "Creeper",
+                "icon": "https://minecraft.wiki/images/EntitySprite_creeper.png?703e9"
+            },
+            "minecraft:wither": {
+                "description": "Wither",
+                "icon": "https://minecraft.wiki/images/EntitySprite_wither.png?fb756"
+            },
+            "minecraft:slime": {
+                "description": "Slime",
+                "icon": "https://minecraft.wiki/images/EntitySprite_slime.png?30db9"
+            },
+            "minecraft:evoker": {
+                "description": "Evoker",
+                "icon": "https://minecraft.wiki/images/EntitySprite_evoker.png?f236e"
+            },
+            "minecraft:phantom": {
+                "description": "Phantom",
+                "icon": "https://minecraft.wiki/images/EntitySprite_phantom.png?332bd"
+            },
+            "minecraft:zombified_piglin": {
+                "description": "Zombified Piglin",
+                "icon": "https://minecraft.wiki/images/EntitySprite_zombified-piglin.png?8dfea"
+            },
+            "minecraft:witch": {
+                "description": "Witch",
+                "icon": "https://minecraft.wiki/images/EntitySprite_witch.png?3daa8"
+            },
+            "minecraft:wither_skeleton": {
+                "description": "Wither Skeleton",
+                "icon": "https://minecraft.wiki/images/EntitySprite_wither-skeleton.png?8b1cd"
+            },
+            "minecraft:husk": {
+                "description": "Husk",
+                "icon": "https://minecraft.wiki/images/EntitySprite_husk.png?99086"
+            },
+            "minecraft:ender_dragon": {
+                "description": "Ender Dragon",
+                "icon": "https://minecraft.wiki/images/EntitySprite_ender-dragon.png?4a397"
+            },
+            "minecraft:shulker": {
+                "description": "Shulker",
+                "icon": "https://minecraft.wiki/images/EntitySprite_shulker.png?ca1f9"
+            },
+            "minecraft:cave_spider": {
+                "description": "Cave Spider",
+                "icon": "https://minecraft.wiki/images/EntitySprite_cave-spider.png?3e94c"
+            },
+            "minecraft:piglin": {
+                "description": "Piglin",
+                "icon": "https://minecraft.wiki/images/EntitySprite_piglin.png?5435e"
+            },
+            "minecraft:enderman": {
+                "description": "Enderman",
+                "icon": "https://minecraft.wiki/images/EntitySprite_enderman.png?c703a"
+            },
+            "minecraft:silverfish": {
+                "description": "Silverfish",
+                "icon": "https://minecraft.wiki/images/EntitySprite_silverfish.png?0656c"
+            },
+            "minecraft:stray": {
+                "description": "Stray",
+                "icon": "https://minecraft.wiki/images/EntitySprite_stray.png?f338b"
+            },
+            "minecraft:endermite": {
+                "description": "Endermite",
+                "icon": "https://minecraft.wiki/images/EntitySprite_endermite.png?71743"
+            },
+            "minecraft:vex": {
+                "description": "Vex",
+                "icon": "https://minecraft.wiki/images/EntitySprite_vex.png?646cb"
+            },
+            "minecraft:zombie": {
+                "description": "Zombie",
+                "icon": "https://minecraft.wiki/images/EntitySprite_zombie.png?ce11f"
+            },
+            "minecraft:drowned": {
+                "description": "Drowned",
+                "icon": "https://minecraft.wiki/images/EntitySprite_drowned.png?ef369"
+            },
+            "minecraft:zombie_villager": {
+                "description": "Zombie Villager",
+                "icon": "https://minecraft.wiki/images/EntitySprite_zombie-villager.png?8183e"
+            }
+        },
+        "steps": 37,
+        "description": "Kill all hostile mobs",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Diamond_Sword.png?0e1c0",
+        "style": "grid-row: span 4"
+    },
+    "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+        "name": "It Spreads",
+        "criteria": {},
+        "steps": 0,
+        "description": "Kill a mob near a Sculk Catalyst",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Sculk_Catalyst.png?85e14",
+        "style": ""
+    },
+    "minecraft:adventure/lighten_up": {
+        "name": "Lighten Up",
+        "criteria": {},
+        "steps": 0,
+        "description": "Use an axe on a lit copper bulb that is at least partially oxidized.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Copper_Bulb.png?b18e7",
+        "style": ""
+    },
+    "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+        "name": "Surge Protector",
+        "criteria": {},
+        "steps": 0,
+        "description": "Be near a lightning bolt that didn't cause fire and has an unharmed villager nearby.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Lightning_Rod.png?a82c9",
+        "style": ""
+    },
+    "minecraft:adventure/minecraft_trials_edition": {
+        "name": "Minecraft: Trial(s) Edition",
+        "criteria": {},
+        "steps": 0,
+        "description": "Find a trial chamber",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Chiseled_Tuff.png?b18e7",
+        "style": ""
+    },
+    "minecraft:adventure/ol_betsy": {
+        "name": "Ol' Betsy",
+        "criteria": {},
+        "steps": 0,
+        "description": "Shoot a crossbow",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Crossbow.png?3188b",
+        "style": ""
+    },
+    "minecraft:adventure/overoverkill": {
+        "name": "Over-Overkill",
+        "criteria": {},
+        "steps": 0,
+        "description": "Deal 50 hearts of damage in a single hit using the Mace",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Mace.png?705a8",
+        "style": ""
+    },
+    "minecraft:adventure/play_jukebox_in_meadows": {
+        "name": "Sound of Music",
+        "criteria": {},
+        "steps": 0,
+        "description": "Use a music disc on a jukebox that is in the meadow biome.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Jukebox.png?20aad",
+        "style": ""
+    },
+    "minecraft:adventure/read_power_of_chiseled_bookshelf": {
+        "name": "The Power of Books",
+        "criteria": {},
+        "steps": 0,
+        "description": "Read the power signal of a Chiseled Bookshelf using a Comparator",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Chiseled_Bookshelf.png?9c667",
+        "style": ""
+    },
+    "minecraft:adventure/revaulting": {
+        "name": "Revaulting",
+        "criteria": {},
+        "steps": 0,
+        "description": "Use an Ominous Trial Key on an Ominous Vault",
+        "icon": "goal https://minecraft.wiki/images/Invicon_Ominous_Trial_Key.png?af583",
+        "style": ""
+    },
+    "minecraft:adventure/root": {
+        "name": "Adventure",
+        "criteria": {},
+        "steps": 0,
+        "description": "Kill or get killed by an entity",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Empty_Map.png?332c3",
+        "style": ""
+    },
+    "minecraft:adventure/salvage_sherd": {
+        "name": "Respecting the Remnants",
+        "criteria": {},
+        "steps": 0,
+        "description": "Brush a Suspicious block to obtain a Pottery Sherd",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Brush.png?afa3f",
+        "style": ""
+    },
+    "minecraft:adventure/shoot_arrow": {
+        "name": "Take Aim",
+        "criteria": {},
+        "steps": 0,
+        "description": "Shoot something with an Arrow",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Bow.png?66f96",
+        "style": ""
+    },
+    "minecraft:adventure/sleep_in_bed": {
+        "name": "Sweet Dreams",
+        "criteria": {},
+        "steps": 0,
+        "description": "Lie down on a bed",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Red_Bed.png?aaddb",
+        "style": ""
+    },
+    "minecraft:adventure/sniper_duel": {
+        "name": "Sniper Duel",
+        "criteria": {},
+        "steps": 0,
+        "description": "Kill a Skeleton from at least 50 meters away",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Arrow.png?243fa",
+        "style": ""
+    },
+    "minecraft:adventure/spyglass_at_dragon": {
+        "name": "Is It a Plane?",
+        "criteria": {},
+        "steps": 0,
+        "description": "Look at the Ender Dragon through a Spyglass",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Spyglass.png?3cfb2",
+        "style": ""
+    },
+    "minecraft:adventure/spyglass_at_ghast": {
+        "name": "Is It a Balloon?",
+        "criteria": {},
+        "steps": 0,
+        "description": "Look at a Ghast through a Spyglass",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Spyglass.png?3cfb2",
+        "style": ""
+    },
+    "minecraft:adventure/spyglass_at_parrot": {
+        "name": "Is It a Bird?",
+        "criteria": {},
+        "steps": 0,
+        "description": "Look at a Parrot through a Spyglass",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Spyglass.png?3cfb2",
+        "style": ""
+    },
+    "minecraft:adventure/summon_iron_golem": {
+        "name": "Hired Help",
+        "description": "Summon an iron golem",
+        "criteria": {},
+        "steps": 0,
+        "icon": "goal https://minecraft.wiki/images/Invicon_Carved_Pumpkin.png?e630d",
+        "style": ""
+    },
+    "minecraft:adventure/throw_trident": {
+        "name": "A Throwaway Joke",
+        "criteria": {},
+        "steps": 0,
+        "description": "Hit a mob with a thrown trident.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Trident.png?8b726",
+        "style": ""
+    },
+    "minecraft:adventure/totem_of_undying": {
+        "name": "Postmortal",
+        "criteria": {},
+        "steps": 0,
+        "description": "Use a Totem of Undying to cheat death",
+        "icon": "goal https://minecraft.wiki/images/Invicon_Totem_of_Undying.png?ad7ee",
+        "style": ""
+    },
+    "minecraft:adventure/trade": {
+        "name": "What a Deal!",
+        "criteria": {},
+        "steps": 0,
+        "description": "Successfully trade with a Villager",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Emerald.png?39910",
+        "style": ""
+    },
+    "minecraft:adventure/trade_at_world_height": {
+        "name": "Star Trader",
+        "criteria": {},
+        "steps": 0,
+        "description": "Trade with a Villager at the build height limit",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Emerald.png?39910",
+        "style": ""
+    },
+    "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+        "name": "Smithing with Style",
+        "criteria": {
+            "armor_trimmed_minecraft:silence_armor_trim_smithing_template_smithing_trim": {
+                "description": "Silence Trim",
+                "icon": "https://minecraft.wiki/images/ItemSprite_silence-armor-trim.png?d2e32"
+            },
+            "armor_trimmed_minecraft:wayfinder_armor_trim_smithing_template_smithing_trim": {
+                "description": "Wayfinder Trim",
+                "icon": "https://minecraft.wiki/images/ItemSprite_wayfinder-armor-trim.png?ffaf0"
+            },
+            "armor_trimmed_minecraft:tide_armor_trim_smithing_template_smithing_trim": {
+                "description": "Tide Trim",
+                "icon": "https://minecraft.wiki/images/ItemSprite_tide-armor-trim.png?8cf27"
+            },
+            "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": {
+                "description": "Spire Trim",
+                "icon": "https://minecraft.wiki/images/ItemSprite_spire-armor-trim.png?161f0"
+            },
+            "armor_trimmed_minecraft:vex_armor_trim_smithing_template_smithing_trim": {
+                "description": "Vex Trim",
+                "icon": "https://minecraft.wiki/images/ItemSprite_vex-armor-trim.png?a8bf5"
+            },
+            "armor_trimmed_minecraft:ward_armor_trim_smithing_template_smithing_trim": {
+                "description": "Ward Trim",
+                "icon": "https://minecraft.wiki/images/ItemSprite_ward-armor-trim.png?163c3"
+            },
+            "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": {
+                "description": "Snout Trim",
+                "icon": "https://minecraft.wiki/images/ItemSprite_snout-armor-trim.png?63a8b"
+            },
+            "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": {
+                "description": "Rib Trim",
+                "icon": "https://minecraft.wiki/images/ItemSprite_rib-armor-trim.png?f2bc7"
+            }
+        },
+        "steps": 8,
+        "description": "Use 8 specific trims",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Silence_Armor_Trim.png?ca758",
+        "style": "grid-row: span 2"
+    },
+    "minecraft:adventure/trim_with_any_armor_pattern": {
+        "name": "Crafting a New Look",
+        "criteria": {},
+        "steps": 0,
+        "description": "Craft a trimmed armor at a Smithing Table",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Dune_Armor_Trim.png?b4d68",
+        "style": ""
+    },
+    "minecraft:adventure/two_birds_one_arrow": {
+        "name": "Two Birds, One Arrow",
+        "criteria": {},
+        "steps": 0,
+        "description": "Kill two Phantoms with a piercing Arrow",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Crossbow.png?3188b",
+        "style": ""
+    },
+    "minecraft:adventure/under_lock_and_key": {
+        "name": "Under Lock and Key",
+        "criteria": {},
+        "steps": 0,
+        "description": "Use a Trial Key on a Vault",
+        "icon": "advancement https://minecraft.wiki/images/ItemSprite_trial-key.png?9e6c1",
+        "style": ""
+    },
+    "minecraft:adventure/use_lodestone": {
+        "name": "Country Lode, Take Me Home",
+        "criteria": {},
+        "steps": 0,
+        "description": "Use a compass on a lodestone.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Lodestone.png?e73c9",
+        "style": ""
+    },
+    "minecraft:adventure/very_very_frightening": {
+        "name": "Very Very Frightening",
+        "criteria": {},
+        "steps": 0,
+        "description": "Strike a villager with lightning using a trident.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Trident.png?8b726",
+        "style": ""
+    },
+    "minecraft:adventure/voluntary_exile": {
+        "name": "Voluntary Exile",
+        "criteria": {},
+        "steps": 0,
+        "description": "Kill a raid captain.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Ominous_Banner.png?6fa92",
+        "style": ""
+    },
+    "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+        "name": "Light as a Rabbit",
+        "criteria": {},
+        "steps": 0,
+        "description": "Walk on powder snow while wearing leather boots.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Leather_Boots.png?50d5b",
+        "style": ""
+    },
+    "minecraft:adventure/who_needs_rockets": {
+        "name": "Who Needs Rockets?",
+        "criteria": {},
+        "steps": 0,
+        "description": "Use a Wind Charge to launch yourself upwards 8 blocks",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Wind_Charge.png?711b5",
+        "style": ""
+    },
+    "minecraft:adventure/whos_the_pillager_now": {
+        "name": "Who's the Pillager Now?",
+        "criteria": {},
+        "steps": 0,
+        "description": "Kill a pillager with a crossbow shot.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Crossbow.png?3188b",
+        "style": ""
+    },
+    "minecraft:end/dragon_breath": {
+        "name": "You Need a Mint",
+        "criteria": {},
+        "steps": 0,
+        "description": "Collect Dragon's Breath in a Glass Bottle",
+        "icon": "goal https://minecraft.wiki/images/Invicon_Dragon%27s_Breath.png?66142",
+        "style": ""
+    },
+    "minecraft:end/dragon_egg": {
+        "name": "The Next Generation",
+        "criteria": {},
+        "steps": 0,
+        "description": "Have a dragon egg",
+        "icon": "goal https://minecraft.wiki/images/Invicon_Dragon_Egg.png?b6b74",
+        "style": ""
+    },
+    "minecraft:end/elytra": {
+        "name": "Sky's the Limit",
+        "criteria": {},
+        "steps": 0,
+        "description": "Have a pair of elytra",
+        "icon": "goal https://minecraft.wiki/images/Invicon_Elytra.png?40c07",
+        "style": ""
+    },
+    "minecraft:end/enter_end_gateway": {
+        "name": "Remote Getaway",
+        "criteria": {},
+        "steps": 0,
+        "description": "Enter an end gateway",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Ender_Pearl.png?0933a",
+        "style": ""
+    },
+    "minecraft:end/find_end_city": {
+        "name": "The City at the End of the Game",
+        "criteria": {},
+        "steps": 0,
+        "description": "Enter an end city",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Purpur_Block.png?f13e9",
+        "style": ""
+    },
+    "minecraft:end/kill_dragon": {
+        "name": "Free the End",
+        "criteria": {},
+        "steps": 0,
+        "description": "Kill the ender dragon",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Dragon_Head.png?9a8cb",
+        "style": ""
+    },
+    "minecraft:end/levitate": {
+        "name": "Great View From Up Here",
+        "criteria": {},
+        "steps": 0,
+        "description": "Levitate up 50 blocks from the attacks of a Shulker",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Shulker_Shell.png?b1594",
+        "style": ""
+    },
+    "minecraft:end/respawn_dragon": {
+        "name": "The End... Again...",
+        "criteria": {},
+        "steps": 0,
+        "description": "Respawn the Ender Dragon",
+        "icon": "goal https://minecraft.wiki/images/Invicon_End_Crystal.gif?8decb",
+        "style": ""
+    },
+    "minecraft:end/root": {
+        "name": "The End",
+        "criteria": {},
+        "steps": 0,
+        "description": "Enter the End dimension.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_End_Stone.png?ed341",
+        "style": ""
+    },
+    "minecraft:husbandry/allay_deliver_cake_to_note_block": {
+        "name": "Birthday Song",
+        "criteria": {},
+        "steps": 0,
+        "description": "Have an Allay drop a Cake at a Note Block",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Note_Block.png?a3073",
+        "style": ""
+    },
+    "minecraft:husbandry/allay_deliver_item_to_player": {
+        "name": "You've Got a Friend in Me",
+        "criteria": {},
+        "steps": 0,
+        "description": "Have an allay deliver items to you.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Cookie.png?5bae6",
+        "style": ""
+    },
+    "minecraft:husbandry/axolotl_in_a_bucket": {
+        "name": "The Cutest Predator",
+        "criteria": {},
+        "steps": 0,
+        "description": "Catch an Axolotl in a Bucket",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Bucket_of_Axolotl.png?a0aef",
+        "style": ""
+    },
+    "minecraft:husbandry/balanced_diet": {
+        "name": "A Balanced Diet",
+        "criteria": {
+            "cooked_porkchop": {
+                "description": "Cooked Porkchop",
+                "icon": "https://minecraft.wiki/images/ItemSprite_cooked-porkchop.png?e1640"
+            },
+            "chicken": {
+                "description": "Raw Chicken",
+                "icon": "https://minecraft.wiki/images/ItemSprite_raw-chicken.png?def15"
+            },
+            "honey_bottle": {
+                "description": "Honey Bottle",
+                "icon": "https://minecraft.wiki/images/ItemSprite_honey-bottle.png?e3501"
+            },
+            "cooked_mutton": {
+                "description": "Cooked Mutton",
+                "icon": "https://minecraft.wiki/images/ItemSprite_cooked-mutton.png?d0d45"
+            },
+            "sweet_berries": {
+                "description": "Sweet Berries",
+                "icon": "https://minecraft.wiki/images/ItemSprite_sweet-berries.png?b32fe"
+            },
+            "cooked_beef": {
+                "description": "Steak",
+                "icon": "https://minecraft.wiki/images/ItemSprite_steak.png?528f8"
+            },
+            "chorus_fruit": {
+                "description": "Chorus Fruit",
+                "icon": "https://minecraft.wiki/images/ItemSprite_chorus-fruit.png?21c02"
+            },
+            "beef": {
+                "description": "Raw Beef",
+                "icon": "https://minecraft.wiki/images/ItemSprite_raw-beef.png?0f3e0"
+            },
+            "baked_potato": {
+                "description": "Baked Potato",
+                "icon": "https://minecraft.wiki/images/ItemSprite_baked-potato.png?b7376"
+            },
+            "porkchop": {
+                "description": "Cooked Porkchop",
+                "icon": "https://minecraft.wiki/images/ItemSprite_cooked-porkchop.png?e1640"
+            },
+            "tropical_fish": {
+                "description": "Tropical Fish",
+                "icon": "https://minecraft.wiki/images/ItemSprite_tropical-fish.png?b998d"
+            },
+            "beetroot_soup": {
+                "description": "Beetroot Soup",
+                "icon": "https://minecraft.wiki/images/ItemSprite_beetroot-soup.png?4237b"
+            },
+            "apple": {
+                "description": "Apple",
+                "icon": "https://minecraft.wiki/images/ItemSprite_apple.png?722bc"
+            },
+            "spider_eye": {
+                "description": "Spider Eye",
+                "icon": "https://minecraft.wiki/images/ItemSprite_spider-eye.png?a4be1"
+            },
+            "potato": {
+                "description": "Potato",
+                "icon": "https://minecraft.wiki/images/ItemSprite_potato.png?b445d"
+            },
+            "rabbit": {
+                "description": "Raw Rabbit",
+                "icon": "https://minecraft.wiki/images/ItemSprite_raw-rabbit.png?93971"
+            },
+            "cooked_cod": {
+                "description": "Cooked Cod",
+                "icon": "https://minecraft.wiki/images/ItemSprite_cooked-cod.png?35e23"
+            },
+            "poisonous_potato": {
+                "description": "Poisonous Potato",
+                "icon": "https://minecraft.wiki/images/ItemSprite_poisonous-potato.png?94af7"
+            },
+            "pumpkin_pie": {
+                "description": "Pumpkin Pie",
+                "icon": "https://minecraft.wiki/images/ItemSprite_pumpkin-pie.png?813eb"
+            },
+            "mutton": {
+                "description": "Raw Mutton",
+                "icon": "https://minecraft.wiki/images/ItemSprite_raw-mutton.png?69647"
+            },
+            "pufferfish": {
+                "description": "Pufferfish",
+                "icon": "https://minecraft.wiki/images/ItemSprite_pufferfish.png?251eb"
+            },
+            "golden_apple": {
+                "description": "Golden Apple",
+                "icon": "https://minecraft.wiki/images/ItemSprite_golden-apple.png?f22fc"
+            },
+            "bread": {
+                "description": "Bread",
+                "icon": "https://minecraft.wiki/images/ItemSprite_bread.png?4f9cd"
+            },
+            "rotten_flesh": {
+                "description": "Rotten Flesh",
+                "icon": "https://minecraft.wiki/images/ItemSprite_rotten-flesh.png?99acb"
+            },
+            "cookie": {
+                "description": "Cookie",
+                "icon": "https://minecraft.wiki/images/ItemSprite_cookie.png?f072b"
+            },
+            "suspicious_stew": {
+                "description": "Suspicious Stew",
+                "icon": "https://minecraft.wiki/images/ItemSprite_suspicious-stew.png?2f0b4"
+            },
+            "glow_berries": {
+                "description": "Glow Berries",
+                "icon": "https://minecraft.wiki/images/ItemSprite_glow-berries.png?fee9e"
+            },
+            "salmon": {
+                "description": "Raw Salmon",
+                "icon": "https://minecraft.wiki/images/ItemSprite_raw-salmon.png?98459"
+            },
+            "dried_kelp": {
+                "description": "Dried Kelp",
+                "icon": "https://minecraft.wiki/images/ItemSprite_dried-kelp.png?e815a"
+            },
+            "melon_slice": {
+                "description": "Melon Slice",
+                "icon": "https://minecraft.wiki/images/ItemSprite_melon-slice.png?aece9"
+            },
+            "golden_carrot": {
+                "description": "Golden Carrot",
+                "icon": "https://minecraft.wiki/images/ItemSprite_golden-carrot.png?a0cb9"
+            },
+            "beetroot": {
+                "description": "Beetroot",
+                "icon": "https://minecraft.wiki/images/ItemSprite_beetroot.png?c1fab"
+            },
+            "cooked_rabbit": {
+                "description": "Cooked Rabbit",
+                "icon": "https://minecraft.wiki/images/ItemSprite_cooked-rabbit.png?04686"
+            },
+            "cooked_chicken": {
+                "description": "Cooked Chicken",
+                "icon": "https://minecraft.wiki/images/ItemSprite_cooked-chicken.png?3bcb8"
+            },
+            "enchanted_golden_apple": {
+                "description": "Enchanted Golden Apple",
+                "icon": "https://minecraft.wiki/images/ItemSprite_enchanted-golden-apple.png?a1890"
+            },
+            "mushroom_stew": {
+                "description": "Mushroom Stew",
+                "icon": "https://minecraft.wiki/images/ItemSprite_mushroom-stew.png?273ed"
+            },
+            "cod": {
+                "description": "Raw Cod",
+                "icon": "https://minecraft.wiki/images/ItemSprite_raw-cod.png?3073a"
+            },
+            "rabbit_stew": {
+                "description": "Rabbit Stew",
+                "icon": "https://minecraft.wiki/images/ItemSprite_rabbit-stew.png?513d6"
+            },
+            "cooked_salmon": {
+                "description": "Cooked Salmon",
+                "icon": "https://minecraft.wiki/images/ItemSprite_cooked-salmon.png?01da2"
+            },
+            "carrot": {
+                "description": "Carrot",
+                "icon": "https://minecraft.wiki/images/ItemSprite_carrot.png?5e06e"
+            }
+        },
+        "steps": 40,
+        "description": "Eat every edible item",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Apple.png?e002e",
+        "style": "grid-row: span 4"
+    },
+    "minecraft:husbandry/bred_all_animals": {
+        "name": "Two by Two",
+        "criteria": {
+            "minecraft:donkey": {
+                "description": "Donkey",
+                "icon": "https://minecraft.wiki/images/EntitySprite_donkey.png?1910f"
+            },
+            "minecraft:mule": {
+                "description": "Mule (horse and donkey)",
+                "icon": "https://minecraft.wiki/images/EntitySprite_mule.png?a1576"
+            },
+            "minecraft:hoglin": {
+                "description": "Hoglin",
+                "icon": "https://minecraft.wiki/images/EntitySprite_hoglin.png?06402"
+            },
+            "minecraft:sniffer": {
+                "description": "Sniffer",
+                "icon": "https://minecraft.wiki/images/EntitySprite_sniffer.png?502b1"
+            },
+            "minecraft:strider": {
+                "description": "Strider",
+                "icon": "https://minecraft.wiki/images/EntitySprite_strider.png?c3ab9"
+            },
+            "minecraft:cow": {
+                "description": "Cow",
+                "icon": "https://minecraft.wiki/images/EntitySprite_cow.png?893cf"
+            },
+            "minecraft:camel": {
+                "description": "Camel",
+                "icon": "https://minecraft.wiki/images/EntitySprite_camel.png?73196"
+            },
+            "minecraft:horse": {
+                "description": "Horse",
+                "icon": "https://minecraft.wiki/images/EntitySprite_creamy-horse.png?3d52b"
+            },
+            "minecraft:bee": {
+                "description": "Bee",
+                "icon": "https://minecraft.wiki/images/EntitySprite_bee.png?5d625"
+            },
+            "minecraft:cat": {
+                "description": "Cat",
+                "icon": "https://minecraft.wiki/images/EntitySprite_cat.png?b3c67"
+            },
+            "minecraft:fox": {
+                "description": "Fox",
+                "icon": "https://minecraft.wiki/images/EntitySprite_fox.png?91c80"
+            },
+            "minecraft:pig": {
+                "description": "Pig",
+                "icon": "https://minecraft.wiki/images/EntitySprite_pig.png?5435e"
+            },
+            "minecraft:llama": {
+                "description": "Llama",
+                "icon": "https://minecraft.wiki/images/EntitySprite_creamy-llama.png?0657f"
+            },
+            "minecraft:turtle": {
+                "description": "Turtle",
+                "icon": "https://minecraft.wiki/images/EntitySprite_turtle.png?75264"
+            },
+            "minecraft:frog": {
+                "description": "Frog",
+                "icon": "https://minecraft.wiki/images/EntitySprite_frog.png?15793"
+            },
+            "minecraft:sheep": {
+                "description": "Sheep",
+                "icon": "https://minecraft.wiki/images/EntitySprite_sheep.png?bd14e"
+            },
+            "minecraft:mooshroom": {
+                "description": "Mooshroom",
+                "icon": "https://minecraft.wiki/images/EntitySprite_mooshroom.png?92493"
+            },
+            "minecraft:ocelot": {
+                "description": "Ocelot",
+                "icon": "https://minecraft.wiki/images/EntitySprite_ocelot.png?e0135"
+            },
+            "minecraft:goat": {
+                "description": "Goat",
+                "icon": "https://minecraft.wiki/images/EntitySprite_goat.png?f85ec"
+            },
+            "minecraft:chicken": {
+                "description": "Chicken",
+                "icon": "https://minecraft.wiki/images/EntitySprite_chicken.png?be6aa"
+            },
+            "minecraft:armadillo": {
+                "description": "Armadillo",
+                "icon": "https://minecraft.wiki/images/EntitySprite_armadillo.png?89a6e"
+            },
+            "minecraft:wolf": {
+                "description": "Wolf",
+                "icon": "https://minecraft.wiki/images/EntitySprite_wolf.png?77c1e"
+            },
+            "minecraft:panda": {
+                "description": "Panda",
+                "icon": "https://minecraft.wiki/images/EntitySprite_normal-panda.png?ef307"
+            },
+            "minecraft:rabbit": {
+                "description": "Rabbit",
+                "icon": "https://minecraft.wiki/images/EntitySprite_brown-rabbit.png?cb79c"
+            },
+            "minecraft:axolotl": {
+                "description": "Axolotl",
+                "icon": "https://minecraft.wiki/images/EntitySprite_axolotl.png?0b5f0"
+            }
+        },
+        "steps": 25,
+        "description": "Breed all animals",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Golden_Carrot.png?ad4eb",
+        "style": "grid-row: span 3"
+    },
+    "minecraft:husbandry/breed_an_animal": {
+        "name": "The Parrots and the Bats",
+        "criteria": {},
+        "steps": 0,
+        "description": "Breed two animals together",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Wheat.png?09002",
+        "style": ""
+    },
+    "minecraft:husbandry/complete_catalogue": {
+        "name": "A Complete Catalogue",
+        "criteria": {
+            "minecraft:white": {
+                "description": "White",
+                "icon": "https://minecraft.wiki/images/EntitySprite_white-cat.png?c2b52"
+            },
+            "minecraft:tabby": {
+                "description": "Tabby",
+                "icon": "https://minecraft.wiki/images/EntitySprite_tabby-cat.png?05840"
+            },
+            "minecraft:calico": {
+                "description": "Calico",
+                "icon": "https://minecraft.wiki/images/EntitySprite_calico-cat.png?fc127"
+            },
+            "minecraft:siamese": {
+                "description": "Siamese",
+                "icon": "https://minecraft.wiki/images/EntitySprite_siamese-cat.png?1b532"
+            },
+            "minecraft:persian": {
+                "description": "Persian",
+                "icon": "https://minecraft.wiki/images/EntitySprite_persian-cat.png?6f540"
+            },
+            "minecraft:jellie": {
+                "description": "Jellie",
+                "icon": "https://minecraft.wiki/images/EntitySprite_jellie.png?f4fd6"
+            },
+            "minecraft:black": {
+                "description": "Tuxedo",
+                "icon": "https://minecraft.wiki/images/EntitySprite_cat.png?b3c67"
+            },
+            "minecraft:all_black": {
+                "description": "Black",
+                "icon": "https://minecraft.wiki/images/EntitySprite_black-cat.png?e7131"
+            },
+            "minecraft:ragdoll": {
+                "description": "Ragdoll",
+                "icon": "https://minecraft.wiki/images/EntitySprite_ragdoll-cat.png?08524"
+            },
+            "minecraft:british_shorthair": {
+                "description": "British Shorthair",
+                "icon": "https://minecraft.wiki/images/EntitySprite_british-shorthair-cat.png?1f1ac"
+            },
+            "minecraft:red": {
+                "description": "Red",
+                "icon": "https://minecraft.wiki/images/EntitySprite_red-cat.png?a92f2"
+            }
+        },
+        "steps": 11,
+        "description": "Tame all Cat variants!",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Raw_Cod.png?d2bf9",
+        "style": "grid-row: span 2"
+    },
+    "minecraft:husbandry/feed_snifflet": {
+        "name": "Little Sniffs",
+        "criteria": {},
+        "steps": 0,
+        "description": "Feed a Snifflet",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Torchflower_Seeds.png?a3745",
+        "style": ""
+    },
+    "minecraft:husbandry/fishy_business": {
+        "name": "Fishy Business",
+        "criteria": {},
+        "steps": 0,
+        "description": "Catch a fish",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Fishing_Rod.png?ae445",
+        "style": ""
+    },
+    "minecraft:husbandry/froglights": {
+        "name": "With Our Powers Combined!",
+        "criteria": {},
+        "steps": 0,
+        "description": "Have a Pearlescent, Ochre, and Verdant Froglight in your inventory.",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Verdant_Froglight.png?81257",
+        "style": ""
+    },
+    "minecraft:husbandry/kill_axolotl_target": {
+        "name": "The Healing Power of Friendship!",
+        "criteria": {},
+        "steps": 0,
+        "description": "Team up with an axolotl and win a fight",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Bucket_of_Tropical_Fish.png?61b50",
+        "style": ""
+    },
+    "minecraft:husbandry/leash_all_frog_variants": {
+        "name": "When the Squad Hops into Town",
+        "criteria": {
+            "minecraft:warm": {
+                "description": "Warm Frog",
+                "icon": "https://minecraft.wiki/images/EntitySprite_tropical-frog.png?69bfe"
+            },
+            "minecraft:temperate": {
+                "description": "Temperate Frog",
+                "icon": "https://minecraft.wiki/images/EntitySprite_frog.png?15793"
+            },
+            "minecraft:cold": {
+                "description": "Cold Frog",
+                "icon": "https://minecraft.wiki/images/EntitySprite_cold-frog.png?78379"
+            }
+        },
+        "steps": 3,
+        "description": "Leash all frog variants (can be done at separate times)",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Lead.png?fce21",
+        "style": ""
+    },
+    "minecraft:husbandry/make_a_sign_glow": {
+        "name": "Glow and Behold!",
+        "criteria": {},
+        "steps": 0,
+        "description": "Make the text of a sign glow using glow ink sac.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Glow_Ink_Sac.png?327c4",
+        "style": ""
+    },
+    "minecraft:husbandry/obtain_netherite_hoe": {
+        "name": "Serious Dedication",
+        "criteria": {},
+        "steps": 0,
+        "description": "Have a netherite hoe in the inventory.",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Netherite_Hoe.png?38238",
+        "style": ""
+    },
+    "minecraft:husbandry/obtain_sniffer_egg": {
+        "name": "Smells Interesting",
+        "criteria": {},
+        "steps": 0,
+        "description": "Obtain a Sniffer Egg",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Sniffer_Egg.png?0add6",
+        "style": ""
+    },
+    "minecraft:husbandry/place_dried_ghast_in_water": {
+        "name": "Stay Hydrated!",
+        "criteria": {},
+        "steps": 0,
+        "description": "Place a dried ghast in water.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Dried_Ghast.png?59773",
+        "style": ""
+    },
+    "minecraft:husbandry/plant_any_sniffer_seed": {
+        "name": "Planting the Past",
+        "criteria": {},
+        "steps": 0,
+        "description": "Plant any Sniffer seed",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Pitcher_Pod.png?8f208",
+        "style": ""
+    },
+    "minecraft:husbandry/plant_seed": {
+        "name": "A Seedy Place",
+        "criteria": {},
+        "steps": 0,
+        "description": "Plant a seed",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Wheat.png?09002",
+        "style": ""
+    },
+    "minecraft:husbandry/remove_wolf_armor": {
+        "name": "Shear Brilliance",
+        "criteria": {},
+        "steps": 0,
+        "description": "Remove Wolf Armor from a Wolf using Shears",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Shears.png?b943a",
+        "style": ""
+    },
+    "minecraft:husbandry/repair_wolf_armor": {
+        "name": "Good as New",
+        "criteria": {},
+        "steps": 0,
+        "description": "Repair damaged wolf armor to full while it's equipped on the wolf.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Wolf_Armor.png?4c967",
+        "style": ""
+    },
+    "minecraft:husbandry/ride_a_boat_with_a_goat": {
+        "name": "Whatever Floats Your Goat!",
+        "criteria": {},
+        "steps": 0,
+        "description": "Ride a boat with a goat.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Oak_Boat.png?486af",
+        "style": ""
+    },
+    "minecraft:husbandry/root": {
+        "name": "Husbandry",
+        "criteria": {},
+        "steps": 0,
+        "description": "Consume anything that can be consumed, except for cake.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Hay_Bale.png?85228",
+        "style": ""
+    },
+    "minecraft:husbandry/safely_harvest_honey": {
+        "name": "Bee Our Guest",
+        "criteria": {},
+        "steps": 0,
+        "description": "Use a glass bottle on a beehive or bee nest while not angering the bees inside (place a campfire under the bee nest or bee hive).",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Honey_Bottle.png?00989",
+        "style": ""
+    },
+    "minecraft:husbandry/silk_touch_nest": {
+        "name": "Total Beelocation",
+        "criteria": {},
+        "steps": 0,
+        "description": "Break a bee nest with 3 bees using silk touch",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Bee_Nest.png?3c007",
+        "style": ""
+    },
+    "minecraft:husbandry/tactical_fishing": {
+        "name": "Tactical Fishing",
+        "criteria": {},
+        "steps": 0,
+        "description": "Use a water bucket on a fish",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Bucket_of_Pufferfish.png?dc5c2",
+        "style": ""
+    },
+    "minecraft:husbandry/tadpole_in_a_bucket": {
+        "name": "Bukkit Bukkit",
+        "criteria": {},
+        "steps": 0,
+        "description": "Catch a tadpole with a bucket",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Bucket_of_Tadpole.png?d7833",
+        "style": ""
+    },
+    "minecraft:husbandry/tame_an_animal": {
+        "name": "Best Friends Forever",
+        "criteria": {},
+        "steps": 0,
+        "description": "Tame an animal",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Lead.png?fce21",
+        "style": ""
+    },
+    "minecraft:husbandry/wax_off": {
+        "name": "Wax Off",
+        "criteria": {},
+        "steps": 0,
+        "description": "Use an axe on a waxed Copper block",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Stone_Axe.png?6f5e2",
+        "style": ""
+    },
+    "minecraft:husbandry/wax_on": {
+        "name": "Wax On",
+        "criteria": {},
+        "steps": 0,
+        "description": "Apply Honeycomb to a Copper block!",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Honeycomb.png?8095a",
+        "style": ""
+    },
+    "minecraft:husbandry/whole_pack": {
+        "name": "The Whole Pack",
+        "criteria": {
+            "minecraft:spotted": {
+                "description": "Spotted",
+                "icon": ""
+            },
+            "minecraft:rusty": {
+                "description": "Rusty",
+                "icon": ""
+            },
+            "minecraft:chestnut": {
+                "description": "Chestnut",
+                "icon": ""
+            },
+            "minecraft:striped": {
+                "description": "Striped",
+                "icon": ""
+            },
+            "minecraft:woods": {
+                "description": "Woods",
+                "icon": ""
+            },
+            "minecraft:pale": {
+                "description": "Pale",
+                "icon": ""
+            },
+            "minecraft:black": {
+                "description": "Black",
+                "icon": ""
+            },
+            "minecraft:ashen": {
+                "description": "Ashen",
+                "icon": ""
+            },
+            "minecraft:snowy": {
+                "description": "Snowy",
+                "icon": ""
+            }
+        },
+        "steps": 9,
+        "description": "Tame every wolf variant",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Bone.png?d8310",
+        "style": "grid-row: span 2"
+    },
+    "minecraft:nether/all_effects": {
+        "name": "How Did We Get Here?",
+        "criteria": {},
+        "steps": 0,
+        "description": "Have every effect applied at the same time",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Bucket.png?5693e",
+        "style": ""
+    },
+    "minecraft:nether/all_potions": {
+        "name": "A Furious Cocktail",
+        "criteria": {},
+        "steps": 0,
+        "description": "Have every potion effect applied at the same time.",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Milk_Bucket.png?686de",
+        "style": ""
+    },
+    "minecraft:nether/brew_potion": {
+        "name": "Local Brewery",
+        "criteria": {},
+        "steps": 0,
+        "description": "Brew a potion",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Uncraftable_Potion.png?82ca9",
+        "style": ""
+    },
+    "minecraft:nether/charge_respawn_anchor": {
+        "name": "Not Quite \"Nine\" Lives",
+        "criteria": {},
+        "steps": 0,
+        "description": "Charge a Respawn Anchor to the maximum",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Respawn_Anchor.png?ef7a4",
+        "style": ""
+    },
+    "minecraft:nether/create_beacon": {
+        "name": "Bring Home the Beacon",
+        "criteria": {},
+        "steps": 0,
+        "description": "Place a Beacon and stand near it when it powers.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Beacon.png?05dc8",
+        "style": ""
+    },
+    "minecraft:nether/create_full_beacon": {
+        "name": "Beaconator",
+        "criteria": {},
+        "steps": 0,
+        "description": "Bring a Beacon to full power",
+        "icon": "goal https://minecraft.wiki/images/Invicon_Beacon.png?05dc8",
+        "style": ""
+    },
+    "minecraft:nether/distract_piglin": {
+        "name": "Oh Shiny",
+        "criteria": {},
+        "steps": 0,
+        "description": "Distract a piglin with gold while it is aggravated",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Gold_Ingot.png?cb854",
+        "style": ""
+    },
+    "minecraft:nether/explore_nether": {
+        "name": "Hot Tourist Destinations",
+        "criteria": {
+            "minecraft:crimson_forest": {
+                "description": "Crimson Forest",
+                "icon": "https://minecraft.wiki/images/thumb/Crimson_Forest.png/300px-Crimson_Forest.png?d15b9"
+            },
+            "minecraft:nether_wastes": {
+                "description": "Nether Wastes",
+                "icon": "https://minecraft.wiki/images/thumb/Nether.png/300px-Nether.png?d6959"
+            },
+            "minecraft:soul_sand_valley": {
+                "description": "Soul Sand Valley",
+                "icon": "https://minecraft.wiki/images/thumb/Soul_Sand_Valley.png/300px-Soul_Sand_Valley.png?abe5f"
+            },
+            "minecraft:basalt_deltas": {
+                "description": "Basalt Deltas",
+                "icon": "https://minecraft.wiki/images/thumb/BasaltDeltas.png/300px-BasaltDeltas.png?97264"
+            },
+            "minecraft:warped_forest": {
+                "description": "Warped Forest",
+                "icon": "https://minecraft.wiki/images/thumb/Warped_Forest.png/300px-Warped_Forest.png?782e4"
+            }
+        },
+        "steps": 5,
+        "description": "Explore all Nether biomes",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Netherite_Boots.png?f5c33",
+        "style": ""
+    },
+    "minecraft:nether/fast_travel": {
+        "name": "Subspace Bubble",
+        "criteria": {},
+        "steps": 0,
+        "description": "Use the Nether to travel 7 km in the Overworld",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Empty_Map.png?332c3",
+        "style": ""
+    },
+    "minecraft:nether/find_bastion": {
+        "name": "Those Were the Days",
+        "criteria": {},
+        "steps": 0,
+        "description": "Enter a Bastion Remnant",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Polished_Blackstone_Bricks.png?1f85b",
+        "style": ""
+    },
+    "minecraft:nether/find_fortress": {
+        "name": "A Terrible Fortress",
+        "criteria": {},
+        "steps": 0,
+        "description": "Enter a nether fortress.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Nether_Bricks.png?5642b",
+        "style": ""
+    },
+    "minecraft:nether/get_wither_skull": {
+        "name": "Spooky Scary Skeleton",
+        "criteria": {},
+        "steps": 0,
+        "description": "Have a wither skull",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Wither_Skeleton_Skull.png?80d3f",
+        "style": ""
+    },
+    "minecraft:nether/loot_bastion": {
+        "name": "War Pigs",
+        "criteria": {},
+        "steps": 0,
+        "description": "Loot a Chest in a Bastion Remnant",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Chest.png?1cab7",
+        "style": ""
+    },
+    "minecraft:nether/netherite_armor": {
+        "name": "Cover Me in Debris",
+        "criteria": {},
+        "steps": 0,
+        "description": "Get a full suit of Netherite armor",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Netherite_Chestplate.png?1b0d8",
+        "style": ""
+    },
+    "minecraft:nether/obtain_ancient_debris": {
+        "name": "Hidden in the Depths",
+        "criteria": {},
+        "steps": 0,
+        "description": "Obtain Ancient Debris",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Ancient_Debris.png?7af74",
+        "style": ""
+    },
+    "minecraft:nether/obtain_blaze_rod": {
+        "name": "Into Fire",
+        "criteria": {},
+        "steps": 0,
+        "description": "Obtain a blaze rod",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Blaze_Rod.png?00856",
+        "style": ""
+    },
+    "minecraft:nether/obtain_crying_obsidian": {
+        "name": "Who is Cutting Onions?",
+        "criteria": {},
+        "steps": 0,
+        "description": "Obtain crying obsidian",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Crying_Obsidian.png?eb75b",
+        "style": ""
+    },
+    "minecraft:nether/return_to_sender": {
+        "name": "Return to Sender",
+        "description": "Kill a ghast by deflecting a ghast fireball back into it.",
+        "criteria": {},
+        "steps": 0,
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Fire_Charge.png?9df86",
+        "style": ""
+    },
+    "minecraft:nether/ride_strider": {
+        "name": "This Boat Has Legs",
+        "criteria": {},
+        "steps": 0,
+        "description": "Use a warped fungus on a stick (interact, not just hold) while riding on a strider",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Warped_Fungus_on_a_Stick.png?3254f",
+        "style": ""
+    },
+    "minecraft:nether/ride_strider_in_overworld_lava": {
+        "name": "Feels Like Home",
+        "criteria": {},
+        "steps": 0,
+        "description": "While riding a strider, travel 50 blocks on lava in the Overworld. (Only horizontal displacement is counted, going in circles doesn't work)",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Warped_Fungus_on_a_Stick.png?3254f",
+        "style": ""
+    },
+    "minecraft:nether/root": {
+        "name": "Nether",
+        "criteria": {},
+        "steps": 0,
+        "description": "Enter the Nether dimension.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Red_Nether_Bricks.png?341af",
+        "style": ""
+    },
+    "minecraft:nether/summon_wither": {
+        "name": "Withering Heights",
+        "criteria": {},
+        "steps": 0,
+        "description": "Summon the Wither",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Nether_Star.gif?afad5",
+        "style": ""
+    },
+    "minecraft:nether/uneasy_alliance": {
+        "name": "Uneasy Alliance",
+        "criteria": {},
+        "steps": 0,
+        "description": "Kill a Ghast while being in the Overworld.",
+        "icon": "challenge https://minecraft.wiki/images/Invicon_Ghast_Tear.png?394c9",
+        "style": ""
+    },
+    "minecraft:story/cure_zombie_villager": {
+        "name": "Zombie Doctor",
+        "criteria": {},
+        "steps": 0,
+        "description": "Use a golden apple on a zombie villager under the Weakness effect and wait for the villager to recover.",
+        "icon": "goal https://minecraft.wiki/images/Invicon_Golden_Apple.png?637e4",
+        "style": ""
+    },
+    "minecraft:story/deflect_arrow": {
+        "name": "Not Today, Thank You",
+        "criteria": {},
+        "steps": 0,
+        "description": "Deflect a projectile with a Shield",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Shield.png?67b0b",
+        "style": ""
+    },
+    "minecraft:story/enchant_item": {
+        "name": "Enchanter",
+        "criteria": {},
+        "steps": 0,
+        "description": "Enchant an item at an Enchanting Table",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Enchanted_Book.gif?85252",
+        "style": ""
+    },
+    "minecraft:story/enter_the_end": {
+        "name": "The End?",
+        "criteria": {},
+        "steps": 0,
+        "description": "Enter the End Portal",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_End_Stone.png?ed341",
+        "style": ""
+    },
+    "minecraft:story/enter_the_nether": {
+        "name": "We Need to Go Deeper",
+        "criteria": {},
+        "steps": 0,
+        "description": "Enter the Nether dimension.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Flint_and_Steel.png?96769",
+        "style": ""
+    },
+    "minecraft:story/follow_ender_eye": {
+        "name": "Eye Spy",
+        "criteria": {},
+        "steps": 0,
+        "description": "Enter a stronghold.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Eye_of_Ender.png?d24aa",
+        "style": ""
+    },
+    "minecraft:story/form_obsidian": {
+        "name": "Ice Bucket Challenge",
+        "criteria": {},
+        "steps": 0,
+        "description": "Have a block of obsidian",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Obsidian.png?51174",
+        "style": ""
+    },
+    "minecraft:story/iron_tools": {
+        "name": "Isn't It Iron Pick",
+        "criteria": {},
+        "steps": 0,
+        "description": "Have an iron pickaxe",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Obsidian.png?51174",
+        "style": ""
+    },
+    "minecraft:story/lava_bucket": {
+        "name": "Hot Stuff",
+        "criteria": {},
+        "steps": 0,
+        "description": "Have a lava bucket in your inventory.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Lava_Bucket.png?f0734",
+        "style": ""
+    },
+    "minecraft:story/mine_diamond": {
+        "name": "Diamonds!",
+        "criteria": {},
+        "steps": 0,
+        "description": "Acquire diamonds",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Lava_Bucket.png?f0734",
+        "style": ""
+    },
+    "minecraft:story/mine_stone": {
+        "name": "Stone Age",
+        "criteria": {},
+        "steps": 0,
+        "description": "Have stone in your inventory",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Wooden_Pickaxe.png?86864",
+        "style": ""
+    },
+    "minecraft:story/obtain_armor": {
+        "name": "Suit Up",
+        "criteria": {},
+        "steps": 0,
+        "description": "Have any type of iron armor in the inventory.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Iron_Chestplate.png?8eca0",
+        "style": ""
+    },
+    "minecraft:story/root": {
+        "name": "Minecraft",
+        "criteria": {},
+        "steps": 0,
+        "description": "Have a crafting table in the inventory.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Grass_Block.png?a5d1f",
+        "style": ""
+    },
+    "minecraft:story/shiny_gear": {
+        "name": "Cover Me with Diamonds",
+        "criteria": {},
+        "steps": 0,
+        "description": "Have any type of diamond armor in the inventory.",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Grass_Block.png?a5d1f",
+        "style": ""
+    },
+    "minecraft:story/smelt_iron": {
+        "name": "Acquire Hardware",
+        "criteria": {},
+        "steps": 0,
+        "description": "Have an iron ingot",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Iron_Ingot.png?ea489",
+        "style": ""
+    },
+    "minecraft:story/upgrade_tools": {
+        "name": "Getting an Upgrade",
+        "criteria": {},
+        "steps": 0,
+        "description": "Have a stone pickaxe",
+        "icon": "advancement https://minecraft.wiki/images/Invicon_Stone_Pickaxe.png?2f2c2",
+        "style": ""
+    }
+}
